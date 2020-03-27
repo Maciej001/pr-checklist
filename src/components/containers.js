@@ -54,8 +54,12 @@ export const TaskBody = styled.div`
 `;
 
 export const AllDoneContainer = styled.div`
+  width: 600px;
   display: flex;
   flex-direction: column;
+  img {
+    width: 100%;
+  }
 `;
 
 export const IconContainer = styled.div`
