@@ -1,5 +1,10 @@
 const checklist = [
   {
+    id: 0,
+    label: "I made sure my branch name includes trello ticket number",
+    code: "feature/2394-add-component-x"
+  },
+  {
     id: 1,
     label: "I squashed my local commits into one, eg. squash 3 commits",
     code: "git rebase -i HEAD~3"
@@ -20,7 +25,7 @@ const checklist = [
   },
   {
     id: 5,
-    label: "I added the Trello ticket number to the PR message"
+    label: "I added the Trello ticket number to the commit message"
   },
   {
     id: 6,
@@ -49,12 +54,8 @@ const checklist = [
     label: "I resolved all the comments and applied requested changes"
   },
   {
-    id: 12,
-    label: "I squashed my commits again and force pushed to github"
-  },
-  {
     id: 13,
-    label: "I merged the PR"
+    label: "I squashed and merged my PR"
   },
   {
     id: 14,
