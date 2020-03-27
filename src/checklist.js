@@ -37,7 +37,7 @@ const checklist = [
   },
   {
     id: 9,
-    label: "I added my commit to the repsective release log in Nuclino"
+    label: "I added my commit to the respective release log in Nuclino"
   },
   {
     id: 10,
