@@ -27,7 +27,7 @@ const CheckList = () => {
 
   return (
     <CheckListContainer>
-      {!allChecked ? (
+      {allChecked ? (
         <AllDone />
       ) : (
         checklist.map(task => (
