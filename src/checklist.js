@@ -7,7 +7,7 @@ const checklist = [
   {
     id: 2,
     label: "I rebased my branch against the branch I want to merge into",
-    code: "git pull rebase origin branch-name-to-rebase-against"
+    code: "git pull --rebase origin branch-name-to-rebase-against"
   },
   {
     id: 3,
