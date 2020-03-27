@@ -49,23 +49,23 @@ const checklist = [
     label: "I resolved all the comments and applied requested changes"
   },
   {
-    id: 11,
+    id: 12,
     label: "I squashed my commits again and force pushed to github"
   },
   {
-    id: 11,
+    id: 13,
     label: "I merged the PR"
   },
   {
-    id: 11,
+    id: 14,
     label: "I deleted the branch on GitHub"
   },
   {
-    id: 11,
+    id: 15,
     label: "I deleted my local branch"
   },
   {
-    id: 11,
+    id: 16,
     label: "I marked my branch as 'merged' in the release log in Nuclino"
   }
 ];

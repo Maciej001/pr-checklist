@@ -10,8 +10,8 @@ function App() {
     <div className="App">
       <PageWrapper>
         <Container>
-          <Title> 👆Look mum no bugs 🐛</Title>
-          <Subtitle>PR like Pro and stay 🧘‍ </Subtitle>
+          <Title> PR Pilot 👨‍✈️</Title>
+          <Subtitle>Push with confidance and stay 🧘‍ </Subtitle>
 
           <CheckList />
         </Container>
