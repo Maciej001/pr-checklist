@@ -24,7 +24,7 @@ const checklist = [
   },
   {
     id: 6,
-    label: "I have written a description of what my commit changed/fixes"
+    label: "I have written a description of what my commit changes/fixes"
   },
   {
     id: 7,

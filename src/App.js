@@ -11,7 +11,7 @@ function App() {
       <PageWrapper>
         <Container>
           <Title> PR Pilot 👨‍✈️</Title>
-          <Subtitle>Push with confidance and stay 🧘‍ </Subtitle>
+          <Subtitle>Push with confidence and stay 🧘‍ </Subtitle>
 
           <CheckList />
         </Container>
